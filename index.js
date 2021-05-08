@@ -5,6 +5,7 @@
     <body>
         <div>kokoko:</div>
         <p>ososos</p>
+        <name>KUBA</name>
     </body>
     <footer>hohos</footer>
 </html>
