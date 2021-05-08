@@ -4,6 +4,7 @@
     </head>
     <body>
         <div>kokoko:</div>
+        <p>ososos</p>
     </body>
-    <footer>hoho</footer>
+    <footer>hohos</footer>
 </html>
