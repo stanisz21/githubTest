@@ -5,11 +5,8 @@
     <body>
         <div>kokoko:</div>
         <p>ososos</p>
-<<<<<<< HEAD
-Name:<input />
-=======
         <name>KUBA</name>
->>>>>>> master
+        <p>sdsdsdsds</p>
     </body>
     <footer>hohos</footer>
 </html>
