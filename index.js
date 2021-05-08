@@ -1,0 +1,9 @@
+<html>
+    <head>
+        głowa
+    </head>
+    <body>
+        <div>kokoko:</div>
+    </body>
+    <footer>hoho</footer>
+</html>
